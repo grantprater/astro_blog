@@ -1,7 +1,7 @@
 ---
 title: 'League of Legends in Real Life'
 description: 'An Argumentative Essay'
-pubDate: 'Feb 04 2022'
+pubDate: 'Feb 04 2025'
 heroImage: '/blog-2.jpg'
 ---
 

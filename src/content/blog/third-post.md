@@ -1,7 +1,7 @@
 ---
 title: 'Third post'
 description: 'Game Development Begins'
-pubDate: 'May 02 2025'
+pubDate: 'Feb 05 2025'
 heroImage: '/blog-3.jpg'
 ---
 
